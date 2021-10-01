@@ -16,7 +16,7 @@ Esse repositorio  eh uma coleção de informações úteis para quem quer começ
 Primeiro, entre no grupo do telegrao: https://t.me/ joinchat/ BTOwLxI3WtM0NWQx (Separado para evitar bots, so juntar no seu browser).
 Caso voce tenha alguma duvida (ou esta tao perdido que nem sabe qual eh a sua duvida) que nao quer colocar no grupo por algum motivo, as pessoas que se comprometeram a ajudar sao as seguintes:
 
-* Bruno Larsen: blarsen <at> redhat (dot) com; <at>flango no telegrão
+1. Bruno Larsen: blarsen <at> redhat (dot) com; <at>flango no telegrão
 +
 Experiencia: Ja contribui um pouco para FreeBSD, um bom tanto para QEMU e no momento contribuo para GDB. Tenho experiencia com projetos de C/C++, que gostam de usar email como metodo para revisar patches. Nao sei lidar com Gerrit (nao lembro nada de lidar com phabricator, desculpem) mas de resto estamos ai :)
 +
