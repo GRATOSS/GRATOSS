@@ -11,6 +11,14 @@ Esse repositorio  eh uma coleção de informações úteis para quem quer começ
 * Como se comunicar: TBD
 * outros?
 
+### Como saber se voce esta pronto para contribuir
+
+A resposta eh simples, voce esta. Mas vamos expandir um pouco para voces entenderem por que a resposta eh essa:
+
+* Contribuicoes nao precisam ser codigo. Muitos projetos tem documentacoes ruins, designs feios, ou coisas do tipo. Apesar de acharmos - como programadores - que isso eh fru-fru, muitos usuarios normais nao confiam em projetos Open Source por nao _parecem_ maduros o suficiente.
+* "Eu nao sei fazer essas coisas bonitas". Reportar bugs tambem eh contribuicao. Especialmente quando voce usa o tempo para criar e refinar um reprodutor de bugs, ou mesmo identificando no codigo onde esta o problema. E nao adianta pensar que "um novato nao iria achar um bug importante:. Nao so eu achei 3 problemas no GDB acidentamente enquanto resolvia um deles, eu (flango) tambem levantei um problema MUITO conhecido no GDB que parece um bug por causa do output dele (CTRL + C escrevendo Quit mas nao saindo do GDB), que vai ser resolvido em breve.
+* "Mas levantar problemas nao eh contribuir, eu quero fazer codigo". Mesmo assim, varios projetos tem coisas bugs/tarefas simples para ajudar novatos a conhecerem o codigo. Um exemplo sao as Bite sized Tasks do QEMU https://wiki.qemu.org/Contribute/BiteSizedTasks
+
 ## Contatos
 
 Primeiro, entre no grupo do telegrao: https://t.me/ joinchat/ BTOwLxI3WtM0NWQx (Separado para evitar bots, so juntar no seu browser).
