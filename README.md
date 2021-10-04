@@ -30,5 +30,6 @@ Caso voce tenha alguma duvida (ou esta tao perdido que nem sabe qual eh a sua du
 
     Notas: Por favor, colocar GRATOSS no assunto do e-mail, assim eu posso organizar melhor na lista de emails. Respostas durante horario comercial (mesmo no telegram)
 
-2. [Gabriel Fontes](https://misterio.me): gratoss@misterio.me; @Misterio7x no Telegrama
-    Experiência: Já empacotei um pouco no AUR (Arch Linux), e hoje ativamente no Nixpkgs (Nix/NixOS). Tenho alguns projetos open-source (a maioria relacionados à personalização). Tenho alguma experiência com os quirks de projetos em Rust, Pyhon, e JS/TS, e também sou grande fã de workflow baseada em email.
+2. [Gabriel Fontes](https://misterio.me): gratoss@misterio.me; [@Misterio7x no Telegrama](https://t.me/misterio7x)
+
+    Experiência: Já empacotei um pouco no AUR (Arch Linux), e hoje ativamente no Nixpkgs (Nix/NixOS). Tenho alguns projetos open-source (a maioria relacionados à personalização). Tenho alguma experiência com os quirks de projetos em Rust, Python, e JS/TS, e também sou grande fã de workflow baseada em email.
