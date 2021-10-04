@@ -33,3 +33,14 @@ Caso voce tenha alguma duvida (ou esta tao perdido que nem sabe qual eh a sua du
 2. [Gabriel Fontes](https://misterio.me): gratoss@misterio.me; [@Misterio7x no Telegrama](https://t.me/misterio7x)
 
     Experiência: Já empacotei um pouco no AUR (Arch Linux), e hoje ativamente no Nixpkgs (Nix/NixOS). Tenho alguns projetos open-source (a maioria relacionados à personalização). Tenho alguma experiência com os quirks de projetos em Rust, Python, e JS/TS, e também sou grande fã de workflow baseada em email.
+
+3. Carlos Henrique Lima Melara: charlesmelara@outlook.com; @charles2910 (github
+   e gitlab), @charles ([Salsa](https://salsa.debian.org))
+
+    Experiência: Debian - empacotamento de software
+    ([mantenho alguns pacotes](https://qa.debian.org/developer.php?email=charlesmelara%40outlook.com))
+    e tradução para o português
+    ([equipe de localização pt-BR](https://wiki.debian.org/Brasil/Traduzir));
+    Linux - contribuições _simples_ e fluxo de trabalho (e-mails com patches);
+    Relatórios de Bugs - fiz vários relatórios de bugs e contribui pontualmente
+    consertando os bugs reportados em vários projetos.
